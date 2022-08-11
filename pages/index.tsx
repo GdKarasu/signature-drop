@@ -19,7 +19,7 @@ const Home: NextPage = () => {
   const [, switchNetwork] = useNetwork();
 
   const signatureDrop = useSignatureDrop(
-    "0xb90a18e9270d44F6e7D06e5Eac32C6Ea881CCaB2"
+    "0xbffaB8621Ed049e53D6A0f6F66CDa142A111992B"
   );
 
   async function claim() {
